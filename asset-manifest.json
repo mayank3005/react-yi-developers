@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-yi-developers/static/css/main.e9727a57.css",
+    "main.js": "/react-yi-developers/static/js/main.9b3da3da.js",
+    "static/media/main-img2.jpg": "/react-yi-developers/static/media/main-img2.0d82e2aeff44bfc2fdf3.jpg",
+    "static/media/graphic.jpeg": "/react-yi-developers/static/media/graphic.31ed06c4f9dbc9d53b1a.jpeg",
+    "static/media/main-img.webp": "/react-yi-developers/static/media/main-img.3d34062f11c52e61fad3.webp",
+    "static/media/app.jpeg": "/react-yi-developers/static/media/app.005f4bca3dbdf4975b46.jpeg",
+    "static/media/web.jpg": "/react-yi-developers/static/media/web.36b5064af6a5a3ee411c.jpg",
+    "static/media/android.jpeg": "/react-yi-developers/static/media/android.ae34b0e0b724360e859f.jpeg",
+    "static/media/marketing.jpeg": "/react-yi-developers/static/media/marketing.503241a41571e34469af.jpeg",
+    "static/media/service1.webp": "/react-yi-developers/static/media/service1.e51cd02c76ca1341dce6.webp",
+    "index.html": "/react-yi-developers/index.html",
+    "main.e9727a57.css.map": "/react-yi-developers/static/css/main.e9727a57.css.map",
+    "main.9b3da3da.js.map": "/react-yi-developers/static/js/main.9b3da3da.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9727a57.css",
+    "static/js/main.9b3da3da.js"
+  ]
+}
